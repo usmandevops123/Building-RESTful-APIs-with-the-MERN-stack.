@@ -1,0 +1,5 @@
+{
+    "mongoURI":
+    "mongodb+srv://dbUsman:<usman12345>@cluster0.kazwn.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+  } 
+  
